@@ -18,7 +18,7 @@
 
 JustHTMLs 是一个开源的 HTML 工具集平台，汇集各种轻量级的在线工具。所有工具均为单文件 HTML，无需安装，打开即用，数据在浏览器本地处理，保护您的隐私。
 
-本项目的设计灵感来源于 [Simon Willison's HTML Tools](https://simonwillison.net/2025/Dec/10/html-tools/)，致力于打造最完整的中文 HTML 工具集合。
+致力于打造最完整的中文 HTML 工具集合。
 
 ### 特点
 
@@ -156,7 +156,6 @@ MIT License - 详见 [LICENSE](LICENSE) 文件
 
 ## 鸣谢
 
-- [Simon Willison's HTML Tools](https://simonwillison.net/2025/Dec/10/html-tools/) - 项目设计灵感来源
 - 所有贡献者 - 感谢你们的贡献！
 
 ---
