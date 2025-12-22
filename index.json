@@ -121,6 +121,26 @@
       "updatedAt": "2025-12-22",
       "featured": true,
       "repo": "https://github.com/justhtmls/justhtmls.github.io"
+    },
+    {
+      "id": "password-generator",
+      "name": "安全密码生成器",
+      "slug": "password-generator",
+      "category": "utility",
+      "tags": ["password", "security", "generator", "utility"],
+      "author": "JustHTMLs",
+      "authorUrl": "https://github.com/justhtmls",
+      "version": "1.0.0",
+      "description": "创建强大且安全的随机密码，保护您的账户安全",
+      "longDescription": "安全密码生成器使用密码学安全的随机数生成器创建强密码，支持自定义密码长度、字符类型，并提供密码强度评估。",
+      "icon": "🔐",
+      "color": "#667eea",
+      "entry": "tools/password-generator/app.html",
+      "detail": "tools/password-generator/index.html",
+      "createdAt": "2025-12-22",
+      "updatedAt": "2025-12-22",
+      "featured": true,
+      "repo": "https://github.com/justhtmls/justhtmls.github.io"
     }
   ],
   "categories": [
